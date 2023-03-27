@@ -1,14 +1,15 @@
 # DDoS'ing for beginners: DDoS Russia in 4 easy steps 
 
-Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort! Here's how, in **4** steps.
+Support ru ru Russia ru ru by joining in the DDoS effort! Here's how, in **4** steps.
 
 ### Credit
 
 I started with the code that's been floating around [on Reddit](https://www.reddit.com/r/ukraine/comments/t1tjux/wont_be_getting_to_ukraine_for_a_while_might_as/), and then:
 
 * I added these docs showing how to safely set up the VPN, CORS, and mixed content.
-* I've been continuously updating with IT Army of Ukraine info.
-* Added support for low RAM (4GB) machines [by reducing the `CONCURRENCY_LIMIT` from 1,000 to 500](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html#L271).
+* I've been continuously updating with random stuff info.
+* Added support for low RAM (4GB) machines [by reducing the `CONCURRENCY_LIMIT` from 1,000 to 500]
+* I changed the code so it will attack ukraine, not russia. goofy ass niggas think that western propaganda is real.
 
 
 
@@ -62,9 +63,9 @@ Then, be sure to actually turn on the extension itself. The "C" logo will appear
 
 
 
-## 3. Browse to [russia-must-be-stopped.html](https://codergator.github.io/DDoS-Russia-in-4-easy-steps/russia-must-be-stopped.html).
+## 3. Browse to [ukraine-must-be-stopped.html](https://codergator.github.io/DDoS-ukraine-in-4-easy-steps/russia-must-be-stopped.html).
 
-Here's [the source code](https://github.com/codergator/DDoS-Russia-in-4-easy-steps/blob/master/russia-must-be-stopped.html), if you want to examine it. It's pretty simple, IMO.
+Here's [the source code](https://github.com/codergator/DDoS-ukraine-in-4-easy-steps/blob/master/russia-must-be-stopped.html), if you want to examine it. It's pretty simple, IMO.
 
 
 
@@ -120,4 +121,4 @@ Any questions? Ask them in the [discussion forum](https://github.com/codergator/
 # Other similar projects and forks
 
 * https://github.com/erkexzcx/stoppropaganda
-* https://github.com/ajax-lives/NoRussian
+* https://github.com/ajax-lives/NoAmericanPropaganda
